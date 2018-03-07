@@ -1,0 +1,9 @@
+﻿  main.cpp
+h:\delete\linkedstack\linkedstack\main.cpp(61): warning C4804: “%”: 在操作中使用类型“bool”不安全
+h:\delete\linkedstack\linkedstack\main.cpp(66): warning C4804: “%”: 在操作中使用类型“bool”不安全
+h:\delete\linkedstack\linkedstack\main.cpp(87): warning C4804: “%”: 在操作中使用类型“bool”不安全
+h:\delete\linkedstack\linkedstack\main.cpp(92): warning C4804: “%”: 在操作中使用类型“bool”不安全
+h:\delete\linkedstack\linkedstack\main.cpp(117): warning C4804: “%”: 在操作中使用类型“bool”不安全
+h:\delete\linkedstack\linkedstack\main.cpp(122): warning C4804: “%”: 在操作中使用类型“bool”不安全
+  LinkedStack.vcxproj -> H:\Delete\LinkedStack\Debug\LinkedStack.exe
+  LinkedStack.vcxproj -> H:\Delete\LinkedStack\Debug\LinkedStack.pdb (Partial PDB)

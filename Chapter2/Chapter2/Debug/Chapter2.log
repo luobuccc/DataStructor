@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Chapter2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+h:\delete\数据结构\chapter2\chapter2\ds.h(92): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  h:\delete\数据结构\chapter2\chapter2\ds.h(91): note: 编译类 模板 成员函数“void SeqList<int>::Display(void)”时
+  h:\delete\数据结构\chapter2\chapter2\main.cpp(13): note: 参见对正在编译的函数 模板 实例化“void SeqList<int>::Display(void)”的引用
+  h:\delete\数据结构\chapter2\chapter2\main.cpp(8): note: 参见对正在编译的类 模板 实例化“SeqList<int>”的引用
+  Chapter2.vcxproj -> H:\Delete\数据结构\Chapter2\Debug\Chapter2.3.exe
+  Chapter2.vcxproj -> H:\Delete\数据结构\Chapter2\Debug\Chapter2.3.pdb (Full PDB)

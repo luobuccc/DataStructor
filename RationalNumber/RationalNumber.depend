@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1474981558 source:h:\delete\数据结构\rationalnumber\main.cpp
+	<iostream>
+	"RationalNumber.h"
+
+1474981349 source:h:\delete\数据结构\rationalnumber\src\rationalnumber.cpp
+	"RationalNumber.h"
+
+1474981607 h:\delete\数据结构\rationalnumber\include\rationalnumber.h
+	<iostream>
+
